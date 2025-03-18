@@ -20,8 +20,8 @@ HADOSHOP Inventory Management System is a **Windows Forms** application designed
 1. **Clone the repository manually** or download the project as a ZIP file.
 2. Open the project in **Visual Studio**.
 3. Ensure **SQL Server** is installed and connected.
-4. Run the application (`F5`) and log in with:
-Username: admin Password: 1234
+4.  log in with:
+ Username: admin Password: 1234
 
 ## 📌 Screenshots
 > Coming soon! *(Add images once UI is fully designed)*
